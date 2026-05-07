@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-05-07T13:18:14Z",
+  "updated_at": "2026-05-07T19:59:43Z",
   "prices": [
     {
       "instrument": "EUR/USD",
-      "bid": 1.17717,
-      "ask": 1.17732,
+      "bid": 1.17383,
+      "ask": 1.17399,
       "spread": 0.00015,
-      "change_pct": 0.2
+      "change_pct": -0.08
     },
     {
       "instrument": "GBP/USD",
-      "bid": 1.36213,
-      "ask": 1.36233,
+      "bid": 1.35699,
+      "ask": 1.35719,
       "spread": 0.0002,
-      "change_pct": 0.21
+      "change_pct": -0.17
     },
     {
       "instrument": "USD/JPY",
-      "bid": 156.35,
-      "ask": 156.37,
+      "bid": 156.829,
+      "ask": 156.849,
       "spread": 0.02,
-      "change_pct": -0.02
+      "change_pct": 0.29
     },
     {
       "instrument": "USD/CHF",
-      "bid": 0.77722,
-      "ask": 0.77748,
+      "bid": 0.77973,
+      "ask": 0.77998,
       "spread": 0.00025,
-      "change_pct": -0.2
+      "change_pct": 0.13
     },
     {
       "instrument": "AUD/USD",
-      "bid": 0.72463,
-      "ask": 0.72483,
+      "bid": 0.72206,
+      "ask": 0.72226,
       "spread": 0.0002,
-      "change_pct": 0.13
+      "change_pct": -0.22
     },
     {
       "instrument": "USD/CAD",
-      "bid": 1.36377,
-      "ask": 1.36402,
+      "bid": 1.3643,
+      "ask": 1.36454,
       "spread": 0.00025,
-      "change_pct": 0.04
+      "change_pct": 0.08
     },
     {
       "instrument": "NZD/USD",
-      "bid": 0.59731,
-      "ask": 0.59757,
+      "bid": 0.59471,
+      "ask": 0.59497,
       "spread": 0.00025,
-      "change_pct": 0.33
+      "change_pct": -0.11
     },
     {
       "instrument": "EUR/JPY",
-      "bid": 184.056,
-      "ask": 184.091,
+      "bid": 184.104,
+      "ask": 184.139,
       "spread": 0.035,
-      "change_pct": 0.18
+      "change_pct": 0.21
     },
     {
       "instrument": "GBP/JPY",
-      "bid": 212.973,
-      "ask": 213.023,
+      "bid": 212.776,
+      "ask": 212.826,
       "spread": 0.05,
-      "change_pct": 0.19
+      "change_pct": 0.1
     },
     {
       "instrument": "EUR/GBP",
-      "bid": 0.86411,
-      "ask": 0.86437,
+      "bid": 0.86504,
+      "ask": 0.8653,
       "spread": 0.00025,
-      "change_pct": -0.01
+      "change_pct": 0.1
     },
     {
       "instrument": "EUR/CHF",
-      "bid": 0.915,
-      "ask": 0.91535,
+      "bid": 0.91535,
+      "ask": 0.9157,
       "spread": 0.00035,
-      "change_pct": 0.01
+      "change_pct": 0.05
     },
     {
       "instrument": "AUD/JPY",
-      "bid": 113.315,
-      "ask": 113.35,
+      "bid": 113.247,
+      "ask": 113.282,
       "spread": 0.035,
-      "change_pct": 0.13
+      "change_pct": 0.07
     },
     {
       "instrument": "CHF/JPY",
-      "bid": 201.124,
-      "ask": 201.169,
+      "bid": 201.074,
+      "ask": 201.119,
       "spread": 0.045,
-      "change_pct": 0.18
+      "change_pct": 0.15
     },
     {
       "instrument": "GBP/CHF",
-      "bid": 1.05873,
-      "ask": 1.05913,
+      "bid": 1.05804,
+      "ask": 1.05844,
       "spread": 0.0004,
-      "change_pct": 0.02
+      "change_pct": -0.05
     },
     {
       "instrument": "EUR/AUD",
-      "bid": 1.62403,
-      "ask": 1.62443,
+      "bid": 1.62527,
+      "ask": 1.62567,
       "spread": 0.0004,
-      "change_pct": 0.06
+      "change_pct": 0.13
     },
     {
       "instrument": "GBP/AUD",
-      "bid": 1.87911,
-      "ask": 1.87966,
+      "bid": 1.87857,
+      "ask": 1.87912,
       "spread": 0.00055,
-      "change_pct": 0.06
+      "change_pct": 0.03
     },
     {
       "instrument": "EUR/CAD",
-      "bid": 1.60543,
-      "ask": 1.60583,
+      "bid": 1.6017,
+      "ask": 1.6021,
       "spread": 0.0004,
-      "change_pct": 0.24
+      "change_pct": 0.0
     },
     {
       "instrument": "AUD/CAD",
-      "bid": 0.98839,
-      "ask": 0.98874,
+      "bid": 0.98525,
+      "ask": 0.98561,
       "spread": 0.00035,
-      "change_pct": 0.18
+      "change_pct": -0.13
     },
     {
       "instrument": "NZD/JPY",
-      "bid": 93.411,
-      "ask": 93.451,
+      "bid": 93.243,
+      "ask": 93.283,
       "spread": 0.04,
-      "change_pct": 0.33
+      "change_pct": 0.15
     },
     {
       "instrument": "XAU/USD",
-      "bid": 4735.88,
-      "ask": 4736.68,
+      "bid": 4707.72,
+      "ask": 4708.52,
       "spread": 0.8,
-      "change_pct": 0.97
+      "change_pct": 0.37
     }
   ]
 }
